@@ -1,0 +1,81 @@
+<template>
+    <lightning-card title="Advisor AI Briefing" icon-name="standard:account">
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+            <div class="context slds-m-bottom_medium">
+                <template lwc:if={accountName}>
+                    <p class="slds-text-heading_small">{accountName}</p>
+                </template>
+                <p class="slds-text-body_small slds-text-color_weak">
+                    Household External ID: {householdExternalId}
+                </p>
+            </div>
+
+            <template lwc:if={errorMessage}>
+                <div class="slds-notify slds-notify_alert slds-alert_error slds-m-bottom_medium" role="alert">
+                    <lightning-formatted-text value={errorMessage}></lightning-formatted-text>
+                </div>
+            </template>
+
+            <div class="slds-m-bottom_medium">
+                <lightning-button
+                    variant="brand"
+                    label={buttonLabel}
+                    title={buttonLabel}
+                    onclick={handleGenerate}
+                    disabled={isDisabled}>
+                </lightning-button>
+            </div>
+
+            <template lwc:if={isBusy}>
+                <div class="loading slds-is-relative slds-m-bottom_medium">
+                    <lightning-spinner alternative-text="Generating advisor briefing" size="small"></lightning-spinner>
+                    <p class="slds-text-body_small slds-text-color_weak">
+                        Gathering CRM, portfolio, and trading evidence...
+                    </p>
+                </div>
+            </template>
+
+            <template lwc:if={hasBriefing}>
+                <template lwc:if={generatedLabel}>
+                    <p class="generated slds-text-body_small slds-text-color_weak slds-m-bottom_medium">
+                        Generated: {generatedLabel}
+                    </p>
+                </template>
+
+                <template for:each={sections} for:item="section">
+                    <section class={section.cssClass} key={section.key}>
+                        <h2 class="slds-text-heading_small slds-m-bottom_x-small">{section.label}</h2>
+                        <template lwc:if={section.hasItems}>
+                            <ul class="slds-list_dotted">
+                                <template for:each={section.items} for:item="item">
+                                    <li key={item}>{item}</li>
+                                </template>
+                            </ul>
+                        </template>
+                        <template lwc:else>
+                            <p class="slds-text-color_weak">No information provided.</p>
+                        </template>
+                    </section>
+                </template>
+
+                <template lwc:if={hasCitations}>
+                    <section class="briefing-section traceability">
+                        <h2 class="slds-text-heading_small slds-m-bottom_x-small">Sources &amp; Traceability</h2>
+                        <ul class="slds-list_dotted">
+                            <template for:each={citations} for:item="citation">
+                                <li key={citation.key}>
+                                    <strong>{citation.sourceType}</strong>
+                                    <span class="slds-m-left_x-small">{citation.sourceIds}</span>
+                                </li>
+                            </template>
+                        </ul>
+                    </section>
+                </template>
+
+                <p class="notice slds-text-body_small slds-text-color_weak slds-m-top_large">
+                    AI-generated briefing based on available source data. Review source information before making client or investment decisions.
+                </p>
+            </template>
+        </div>
+    </lightning-card>
+</template>

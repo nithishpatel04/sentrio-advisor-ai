@@ -1,0 +1,45 @@
+Activity_External_ID__c,WhoId,WhatId,Subject,StartDateTime,EndDateTime,Location,Description
+EVENT-00001,003aj00002LIvnXAAT,001aj00003rOxZyAAK,Portfolio Review,2026-03-23T06:42:22,2026-03-23T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00002,003aj00002LIvnXAAT,001aj00003rOxZyAAK,Investment Strategy Review,2026-09-29T06:42:22,2026-09-29T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00003,003aj00002LIvnZAAT,001aj00003rOxZzAAK,Annual Review Meeting,2026-01-06T06:42:22,2026-01-06T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00004,003aj00002LIvnZAAT,001aj00003rOxZzAAK,Portfolio Review,2026-10-13T06:42:22,2026-10-13T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00005,003aj00002LIvndAAD,001aj00003rOxa0AAC,Investment Strategy Review,2026-07-28T06:42:22,2026-07-28T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00006,003aj00002LIvndAAD,001aj00003rOxa0AAC,Investment Strategy Review,2026-12-08T06:42:22,2026-12-08T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00007,003aj00002LIvnfAAD,001aj00003rOxa1AAC,Investment Strategy Review,2025-12-24T06:42:22,2025-12-24T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00008,003aj00002LIvnfAAD,001aj00003rOxa1AAC,Portfolio Review,2026-09-16T06:42:22,2026-09-16T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00009,003aj00002LIvnmAAD,001aj00003rOxa3AAC,Portfolio Review,2026-05-23T06:42:22,2026-05-23T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00010,003aj00002LIvnpAAD,001aj00003rOxa4AAC,Estate Planning Discussion,2026-06-24T06:42:22,2026-06-24T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00011,003aj00002LIvnpAAD,001aj00003rOxa4AAC,Investment Strategy Review,2026-10-30T06:42:22,2026-10-30T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00012,003aj00002LIvnsAAD,001aj00003rOxa5AAC,Estate Planning Discussion,2026-07-19T06:42:22,2026-07-19T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00013,003aj00002LIvnwAAD,001aj00003rOxa7AAC,Retirement Planning Meeting,2025-11-01T06:42:22,2025-11-01T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00014,003aj00002LIvo7AAD,001aj00003rOxaAAAS,Annual Review Meeting,2026-07-06T06:42:22,2026-07-06T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00015,003aj00002LIvoJAAT,001aj00003rOxaFAAS,Retirement Planning Meeting,2025-12-21T06:42:22,2025-12-21T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00016,003aj00002LIvoJAAT,001aj00003rOxaFAAS,Portfolio Review,2026-10-31T06:42:22,2026-10-31T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00017,003aj00002LIvoTAAT,001aj00003rOxaJAAS,Portfolio Review,2025-09-19T06:42:22,2025-09-19T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00018,003aj00002LIvoVAAT,001aj00003rOxaKAAS,Estate Planning Discussion,2025-12-17T06:42:22,2025-12-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00019,003aj00002LIvoVAAT,001aj00003rOxaKAAS,Investment Strategy Review,2026-12-06T06:42:22,2026-12-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00020,003aj00002LIvoZAAT,001aj00003rOxaLAAS,Annual Review Meeting,2026-02-25T06:42:22,2026-02-25T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00021,003aj00002LIvoZAAT,001aj00003rOxaLAAS,Retirement Planning Meeting,2026-09-20T06:42:22,2026-09-20T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00022,003aj00002LIvocAAD,001aj00003rOxaMAAS,Portfolio Review,2026-07-08T06:42:22,2026-07-08T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00023,003aj00002LIvoeAAD,001aj00003rOxaNAAS,Portfolio Review,2026-03-02T06:42:22,2026-03-02T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00024,003aj00002LIvogAAD,001aj00003rOxaOAAS,Estate Planning Discussion,2025-09-15T06:42:22,2025-09-15T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00025,003aj00002LIvogAAD,001aj00003rOxaOAAS,Portfolio Review,2026-10-03T06:42:22,2026-10-03T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00026,003aj00002LIvonAAD,001aj00003rOxaQAAS,Estate Planning Discussion,2025-10-15T06:42:22,2025-10-15T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00027,003aj00002LIvopAAD,001aj00003rOxaRAAS,Portfolio Review,2026-04-20T06:42:22,2026-04-20T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00028,003aj00002LIvotAAD,001aj00003rOxaSAAS,Annual Review Meeting,2026-07-17T06:42:22,2026-07-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00029,003aj00002LIvotAAD,001aj00003rOxaSAAS,Estate Planning Discussion,2026-10-06T06:42:22,2026-10-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00030,003aj00002LIvoxAAD,001aj00003rOxaTAAS,Estate Planning Discussion,2026-01-25T06:42:22,2026-01-25T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00031,003aj00002LIvp0AAD,001aj00003rOxaUAAS,Investment Strategy Review,2026-04-04T06:42:22,2026-04-04T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00032,003aj00002LIvp2AAD,001aj00003rOxaVAAS,Investment Strategy Review,2026-06-13T06:42:22,2026-06-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00033,003aj00002LIvp8AAD,001aj00003rOxaXAAS,Estate Planning Discussion,2026-03-13T06:42:22,2026-03-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00034,003aj00002LIvp8AAD,001aj00003rOxaXAAS,Retirement Planning Meeting,2026-09-16T06:42:22,2026-09-16T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00035,003aj00002LIvpGAAT,001aj00003rOxaaAAC,Retirement Planning Meeting,2026-06-17T06:42:22,2026-06-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00036,003aj00002LIvpIAAT,001aj00003rOxabAAC,Portfolio Review,2026-05-01T06:42:22,2026-05-01T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00037,003aj00002LIvpIAAT,001aj00003rOxabAAC,Investment Strategy Review,2026-10-06T06:42:22,2026-10-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00038,003aj00002LIvpXAAT,001aj00003rOxafAAC,Annual Review Meeting,2025-12-03T06:42:22,2025-12-03T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00039,003aj00002LIvpXAAT,001aj00003rOxafAAC,Retirement Planning Meeting,2026-11-01T06:42:22,2026-11-01T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00040,003aj00002LIvpaAAD,001aj00003rOxagAAC,Investment Strategy Review,2026-04-09T06:42:22,2026-04-09T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00041,003aj00002LIvpdAAD,001aj00003rOxahAAC,Annual Review Meeting,2025-12-05T06:42:22,2025-12-05T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00042,003aj00002LIvphAAD,001aj00003rOxaiAAC,Portfolio Review,2026-06-07T06:42:22,2026-06-07T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00043,003aj00002LIvpnAAD,001aj00003rOxakAAC,Investment Strategy Review,2025-11-13T06:42:22,2025-11-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00044,003aj00002LIvpnAAD,001aj00003rOxakAAC,Investment Strategy Review,2026-10-13T06:42:22,2026-10-13T07:42:22,Virtual,Upcoming client advisory meeting.

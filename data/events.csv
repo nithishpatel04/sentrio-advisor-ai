@@ -1,0 +1,45 @@
+Activity_External_ID__c,Client_External_ID,Household_External_ID,Subject,StartDateTime,EndDateTime,Location,Description
+EVENT-00001,CL-00003,HH-0002,Portfolio Review,2026-03-23T06:42:22,2026-03-23T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00002,CL-00003,HH-0002,Investment Strategy Review,2026-09-29T06:42:22,2026-09-29T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00003,CL-00005,HH-0003,Annual Review Meeting,2026-01-06T06:42:22,2026-01-06T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00004,CL-00005,HH-0003,Portfolio Review,2026-10-13T06:42:22,2026-10-13T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00005,CL-00009,HH-0004,Investment Strategy Review,2026-07-28T06:42:22,2026-07-28T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00006,CL-00009,HH-0004,Investment Strategy Review,2026-12-08T06:42:22,2026-12-08T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00007,CL-00011,HH-0005,Investment Strategy Review,2025-12-24T06:42:22,2025-12-24T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00008,CL-00011,HH-0005,Portfolio Review,2026-09-16T06:42:22,2026-09-16T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00009,CL-00018,HH-0007,Portfolio Review,2026-05-23T06:42:22,2026-05-23T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00010,CL-00021,HH-0008,Estate Planning Discussion,2026-06-24T06:42:22,2026-06-24T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00011,CL-00021,HH-0008,Investment Strategy Review,2026-10-30T06:42:22,2026-10-30T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00012,CL-00024,HH-0009,Estate Planning Discussion,2026-07-19T06:42:22,2026-07-19T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00013,CL-00028,HH-0011,Retirement Planning Meeting,2025-11-01T06:42:22,2025-11-01T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00014,CL-00039,HH-0014,Annual Review Meeting,2026-07-06T06:42:22,2026-07-06T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00015,CL-00051,HH-0019,Retirement Planning Meeting,2025-12-21T06:42:22,2025-12-21T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00016,CL-00051,HH-0019,Portfolio Review,2026-10-31T06:42:22,2026-10-31T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00017,CL-00061,HH-0023,Portfolio Review,2025-09-19T06:42:22,2025-09-19T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00018,CL-00063,HH-0024,Estate Planning Discussion,2025-12-17T06:42:22,2025-12-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00019,CL-00063,HH-0024,Investment Strategy Review,2026-12-06T06:42:22,2026-12-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00020,CL-00067,HH-0025,Annual Review Meeting,2026-02-25T06:42:22,2026-02-25T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00021,CL-00067,HH-0025,Retirement Planning Meeting,2026-09-20T06:42:22,2026-09-20T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00022,CL-00070,HH-0026,Portfolio Review,2026-07-08T06:42:22,2026-07-08T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00023,CL-00072,HH-0027,Portfolio Review,2026-03-02T06:42:22,2026-03-02T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00024,CL-00074,HH-0028,Estate Planning Discussion,2025-09-15T06:42:22,2025-09-15T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00025,CL-00074,HH-0028,Portfolio Review,2026-10-03T06:42:22,2026-10-03T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00026,CL-00081,HH-0030,Estate Planning Discussion,2025-10-15T06:42:22,2025-10-15T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00027,CL-00083,HH-0031,Portfolio Review,2026-04-20T06:42:22,2026-04-20T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00028,CL-00087,HH-0032,Annual Review Meeting,2026-07-17T06:42:22,2026-07-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00029,CL-00087,HH-0032,Estate Planning Discussion,2026-10-06T06:42:22,2026-10-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00030,CL-00091,HH-0033,Estate Planning Discussion,2026-01-25T06:42:22,2026-01-25T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00031,CL-00094,HH-0034,Investment Strategy Review,2026-04-04T06:42:22,2026-04-04T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00032,CL-00096,HH-0035,Investment Strategy Review,2026-06-13T06:42:22,2026-06-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00033,CL-00102,HH-0037,Estate Planning Discussion,2026-03-13T06:42:22,2026-03-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00034,CL-00102,HH-0037,Retirement Planning Meeting,2026-09-16T06:42:22,2026-09-16T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00035,CL-00110,HH-0040,Retirement Planning Meeting,2026-06-17T06:42:22,2026-06-17T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00036,CL-00112,HH-0041,Portfolio Review,2026-05-01T06:42:22,2026-05-01T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00037,CL-00112,HH-0041,Investment Strategy Review,2026-10-06T06:42:22,2026-10-06T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00038,CL-00127,HH-0045,Annual Review Meeting,2025-12-03T06:42:22,2025-12-03T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00039,CL-00127,HH-0045,Retirement Planning Meeting,2026-11-01T06:42:22,2026-11-01T07:42:22,Virtual,Upcoming client advisory meeting.
+EVENT-00040,CL-00130,HH-0046,Investment Strategy Review,2026-04-09T06:42:22,2026-04-09T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00041,CL-00133,HH-0047,Annual Review Meeting,2025-12-05T06:42:22,2025-12-05T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00042,CL-00137,HH-0048,Portfolio Review,2026-06-07T06:42:22,2026-06-07T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00043,CL-00143,HH-0050,Investment Strategy Review,2025-11-13T06:42:22,2025-11-13T07:42:22,Advisor Office,Completed client advisory meeting.
+EVENT-00044,CL-00143,HH-0050,Investment Strategy Review,2026-10-13T06:42:22,2026-10-13T07:42:22,Virtual,Upcoming client advisory meeting.

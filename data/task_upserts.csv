@@ -1,0 +1,52 @@
+Activity_External_ID__c,WhoId,WhatId,Subject,Status,Priority,ActivityDate,Description
+TASK-00001,003aj00002LIvnWAAT,001aj00003rOxZxAAK,Review transfer request,Not Started,Low,2026-09-16,Advisor follow-up for Joshua Fowler.
+TASK-00002,003aj00002LIvnZAAT,001aj00003rOxZzAAK,Schedule portfolio review,Not Started,Low,2026-09-24,Advisor follow-up for Michael Lewis.
+TASK-00003,003aj00002LIvnbAAD,001aj00003rOxZzAAK,Follow up on beneficiary update,In Progress,Normal,2026-10-06,Advisor follow-up for William Rodriguez.
+TASK-00004,003aj00002LIvncAAD,001aj00003rOxZzAAK,Confirm address change,Not Started,High,2026-09-20,Advisor follow-up for Sarah Lewis.
+TASK-00005,003aj00002LIvnfAAD,001aj00003rOxa1AAC,Follow up on account access issue,Not Started,Low,2026-09-16,Advisor follow-up for Steven Brown.
+TASK-00006,003aj00002LIvniAAD,001aj00003rOxa1AAC,Call client about missing documents,In Progress,Normal,2026-10-04,Advisor follow-up for Shelly Hudson.
+TASK-00007,003aj00002LIvnjAAD,001aj00003rOxa2AAC,Review transfer request,Completed,Normal,2026-07-24,Advisor follow-up for Justin Ellis.
+TASK-00008,003aj00002LIvnmAAD,001aj00003rOxa3AAC,Follow up on beneficiary update,Completed,High,2026-08-10,Advisor follow-up for Harry Fleming.
+TASK-00009,003aj00002LIvnrAAD,001aj00003rOxa4AAC,Review transfer request,Not Started,Normal,2026-10-23,Advisor follow-up for Brandon Jones.
+TASK-00010,003aj00002LIvnuAAD,001aj00003rOxa6AAC,Send requested documents,Not Started,Normal,2026-09-27,Advisor follow-up for Sherri Daniels.
+TASK-00011,003aj00002LIvo1AAD,001aj00003rOxa8AAC,Call client about missing documents,Completed,Normal,2026-08-31,Advisor follow-up for Tracy Christian.
+TASK-00012,003aj00002LIvo2AAD,001aj00003rOxa8AAC,Confirm address change,Completed,Normal,2026-06-17,Advisor follow-up for Ronald Christian.
+TASK-00013,003aj00002LIvo6AAD,001aj00003rOxa9AAC,Follow up on beneficiary update,Not Started,Normal,2026-09-26,Advisor follow-up for Chelsea Terry.
+TASK-00014,003aj00002LIvoCAAT,001aj00003rOxaCAAS,Schedule portfolio review,Not Started,Low,2026-09-17,Advisor follow-up for Duane Valentine.
+TASK-00015,003aj00002LIvoDAAT,001aj00003rOxaCAAS,Follow up on beneficiary update,Completed,Normal,2026-08-31,Advisor follow-up for Michelle Valentine.
+TASK-00016,003aj00002LIvoHAAT,001aj00003rOxaEAAS,Confirm address change,Completed,Low,2026-08-25,Advisor follow-up for Charles Jimenez.
+TASK-00017,003aj00002LIvoKAAT,001aj00003rOxaFAAS,Send requested documents,Not Started,Normal,2026-09-20,Advisor follow-up for Sydney Byrd.
+TASK-00018,003aj00002LIvoOAAT,001aj00003rOxaGAAS,Confirm address change,Completed,Normal,2026-08-26,Advisor follow-up for Brenda Pena.
+TASK-00019,003aj00002LIvoQAAT,001aj00003rOxaHAAS,Send requested documents,In Progress,Low,2026-10-03,Advisor follow-up for Yolanda Howard.
+TASK-00020,003aj00002LIvoVAAT,001aj00003rOxaKAAS,Review transfer request,In Progress,Low,2026-10-03,Advisor follow-up for Daniel Nelson.
+TASK-00021,003aj00002LIvoZAAT,001aj00003rOxaLAAS,Confirm address change,Completed,Low,2026-07-08,Advisor follow-up for Kathleen Lee.
+TASK-00022,003aj00002LIvodAAD,001aj00003rOxaMAAS,Send requested documents,In Progress,Normal,2026-09-26,Advisor follow-up for Mathew Wagner.
+TASK-00023,003aj00002LIvoqAAD,001aj00003rOxaRAAS,Call client about missing documents,Not Started,Normal,2026-09-24,Advisor follow-up for Jose Martinez.
+TASK-00024,003aj00002LIvosAAD,001aj00003rOxaRAAS,Send requested documents,In Progress,Normal,2026-09-12,Advisor follow-up for Angela Wood.
+TASK-00025,003aj00002LIvouAAD,001aj00003rOxaSAAS,Follow up on beneficiary update,Not Started,Normal,2026-10-14,Advisor follow-up for Wayne Owens.
+TASK-00026,003aj00002LIvovAAD,001aj00003rOxaSAAS,Confirm address change,In Progress,Normal,2026-10-10,Advisor follow-up for Christine Johnson.
+TASK-00027,003aj00002LIvoxAAD,001aj00003rOxaTAAS,Call client about missing documents,In Progress,Normal,2026-10-06,Advisor follow-up for Kathryn Thomas.
+TASK-00028,003aj00002LIvp2AAD,001aj00003rOxaVAAS,Schedule portfolio review,In Progress,High,2026-09-16,Advisor follow-up for Robert Griffith.
+TASK-00029,003aj00002LIvp3AAD,001aj00003rOxaVAAS,Follow up on beneficiary update,In Progress,Low,2026-09-21,Advisor follow-up for Matthew Griffith.
+TASK-00030,003aj00002LIvp4AAD,001aj00003rOxaWAAS,Follow up on beneficiary update,Completed,Low,2026-06-30,Advisor follow-up for Michael Castillo.
+TASK-00031,003aj00002LIvp5AAD,001aj00003rOxaWAAS,Send requested documents,Completed,High,2026-08-28,Advisor follow-up for John Castillo.
+TASK-00032,003aj00002LIvp8AAD,001aj00003rOxaXAAS,Schedule portfolio review,In Progress,High,2026-09-13,Advisor follow-up for Christopher Rivera.
+TASK-00033,003aj00002LIvp9AAD,001aj00003rOxaXAAS,Call client about missing documents,Completed,Normal,2026-07-12,Advisor follow-up for Jose Rivera.
+TASK-00034,003aj00002LIvpAAAT,001aj00003rOxaXAAS,Send requested documents,Completed,High,2026-06-29,Advisor follow-up for Susan Rivera.
+TASK-00035,003aj00002LIvpDAAT,001aj00003rOxaYAAS,Follow up on beneficiary update,Completed,Normal,2026-07-01,Advisor follow-up for Kayla Davis.
+TASK-00036,003aj00002LIvpEAAT,001aj00003rOxaZAAS,Review transfer request,Not Started,Normal,2026-10-12,Advisor follow-up for Steven Anderson.
+TASK-00037,003aj00002LIvpHAAT,001aj00003rOxaaAAC,Confirm address change,Not Started,Low,2026-10-18,Advisor follow-up for John Young.
+TASK-00038,003aj00002LIvpIAAT,001aj00003rOxabAAC,Follow up on account access issue,Not Started,Low,2026-10-16,Advisor follow-up for Morgan Rivera.
+TASK-00039,003aj00002LIvpJAAT,001aj00003rOxabAAC,Confirm address change,Not Started,Low,2026-10-22,Advisor follow-up for Randy Rivera.
+TASK-00040,003aj00002LIvpNAAT,001aj00003rOxacAAC,Send requested documents,Not Started,Normal,2026-09-18,Advisor follow-up for Samantha Warren.
+TASK-00041,003aj00002LIvpPAAT,001aj00003rOxadAAC,Review transfer request,Completed,High,2026-09-07,Advisor follow-up for Karen Valenzuela.
+TASK-00042,003aj00002LIvpTAAT,001aj00003rOxaeAAC,Follow up on beneficiary update,In Progress,Low,2026-10-02,Advisor follow-up for Rebecca Gomez.
+TASK-00043,003aj00002LIvpXAAT,001aj00003rOxafAAC,Follow up on account access issue,In Progress,Normal,2026-10-21,Advisor follow-up for Jennifer Maldonado.
+TASK-00044,003aj00002LIvpcAAD,001aj00003rOxagAAC,Follow up on beneficiary update,Not Started,High,2026-10-15,Advisor follow-up for Karen Stokes.
+TASK-00045,003aj00002LIvpdAAD,001aj00003rOxahAAC,Review transfer request,In Progress,Normal,2026-09-23,Advisor follow-up for Lawrence Carr.
+TASK-00046,003aj00002LIvphAAD,001aj00003rOxaiAAC,Follow up on account access issue,Not Started,Normal,2026-09-27,Advisor follow-up for Lisa Fitzgerald.
+TASK-00047,003aj00002LIvpiAAD,001aj00003rOxaiAAC,Review transfer request,Completed,Normal,2026-08-06,Advisor follow-up for Mario Fitzgerald.
+TASK-00048,003aj00002LIvpjAAD,001aj00003rOxaiAAC,Schedule portfolio review,In Progress,Normal,2026-09-10,Advisor follow-up for Kathleen Fitzgerald.
+TASK-00049,003aj00002LIvpkAAD,001aj00003rOxaiAAC,Send requested documents,Completed,Normal,2026-07-23,Advisor follow-up for Stephanie Fitzgerald.
+TASK-00050,003aj00002LIvpmAAD,001aj00003rOxajAAC,Follow up on beneficiary update,Not Started,Normal,2026-09-12,Advisor follow-up for Randy Morgan.
+TASK-00051,003aj00002LIvpoAAD,001aj00003rOxakAAC,Follow up on beneficiary update,In Progress,Normal,2026-10-15,Advisor follow-up for Peggy Smith.

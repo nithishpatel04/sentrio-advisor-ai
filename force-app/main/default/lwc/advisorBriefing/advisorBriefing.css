@@ -1,0 +1,32 @@
+.briefing-section {
+    border-top: 1px solid var(--lwc-colorBorder, #dddbda);
+    padding: 1rem 0;
+}
+
+.briefing-section:first-child {
+    border-top: 0;
+    padding-top: 0;
+}
+
+.attention {
+    border-left: 3px solid var(--lwc-colorBorderWarning, #fe9339);
+    padding-left: 0.75rem;
+}
+
+.context {
+    border-bottom: 1px solid var(--lwc-colorBorder, #dddbda);
+    padding-bottom: 0.75rem;
+}
+
+.generated {
+    text-align: right;
+}
+
+.loading {
+    min-height: 2rem;
+}
+
+.notice {
+    border-top: 1px solid var(--lwc-colorBorder, #dddbda);
+    padding-top: 0.75rem;
+}

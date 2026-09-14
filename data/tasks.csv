@@ -1,0 +1,52 @@
+Activity_External_ID__c,Client_External_ID,Household_External_ID,Subject,Status,Priority,ActivityDate,Description
+TASK-00001,CL-00002,HH-0001,Review transfer request,Not Started,Low,2026-09-16,Advisor follow-up for Joshua Fowler.
+TASK-00002,CL-00005,HH-0003,Schedule portfolio review,Not Started,Low,2026-09-24,Advisor follow-up for Michael Lewis.
+TASK-00003,CL-00007,HH-0003,Follow up on beneficiary update,In Progress,Normal,2026-10-06,Advisor follow-up for William Rodriguez.
+TASK-00004,CL-00008,HH-0003,Confirm address change,Not Started,High,2026-09-20,Advisor follow-up for Sarah Lewis.
+TASK-00005,CL-00011,HH-0005,Follow up on account access issue,Not Started,Low,2026-09-16,Advisor follow-up for Steven Brown.
+TASK-00006,CL-00014,HH-0005,Call client about missing documents,In Progress,Normal,2026-10-04,Advisor follow-up for Shelly Hudson.
+TASK-00007,CL-00015,HH-0006,Review transfer request,Completed,Normal,2026-07-24,Advisor follow-up for Justin Ellis.
+TASK-00008,CL-00018,HH-0007,Follow up on beneficiary update,Completed,High,2026-08-10,Advisor follow-up for Harry Fleming.
+TASK-00009,CL-00023,HH-0008,Review transfer request,Not Started,Normal,2026-10-23,Advisor follow-up for Brandon Jones.
+TASK-00010,CL-00026,HH-0010,Send requested documents,Not Started,Normal,2026-09-27,Advisor follow-up for Sherri Daniels.
+TASK-00011,CL-00033,HH-0012,Call client about missing documents,Completed,Normal,2026-08-31,Advisor follow-up for Tracy Christian.
+TASK-00012,CL-00034,HH-0012,Confirm address change,Completed,Normal,2026-06-17,Advisor follow-up for Ronald Christian.
+TASK-00013,CL-00038,HH-0013,Follow up on beneficiary update,Not Started,Normal,2026-09-26,Advisor follow-up for Chelsea Terry.
+TASK-00014,CL-00044,HH-0016,Schedule portfolio review,Not Started,Low,2026-09-17,Advisor follow-up for Duane Valentine.
+TASK-00015,CL-00045,HH-0016,Follow up on beneficiary update,Completed,Normal,2026-08-31,Advisor follow-up for Michelle Valentine.
+TASK-00016,CL-00049,HH-0018,Confirm address change,Completed,Low,2026-08-25,Advisor follow-up for Charles Jimenez.
+TASK-00017,CL-00052,HH-0019,Send requested documents,Not Started,Normal,2026-09-20,Advisor follow-up for Sydney Byrd.
+TASK-00018,CL-00056,HH-0020,Confirm address change,Completed,Normal,2026-08-26,Advisor follow-up for Brenda Pena.
+TASK-00019,CL-00058,HH-0021,Send requested documents,In Progress,Low,2026-10-03,Advisor follow-up for Yolanda Howard.
+TASK-00020,CL-00063,HH-0024,Review transfer request,In Progress,Low,2026-10-03,Advisor follow-up for Daniel Nelson.
+TASK-00021,CL-00067,HH-0025,Confirm address change,Completed,Low,2026-07-08,Advisor follow-up for Kathleen Lee.
+TASK-00022,CL-00071,HH-0026,Send requested documents,In Progress,Normal,2026-09-26,Advisor follow-up for Mathew Wagner.
+TASK-00023,CL-00084,HH-0031,Call client about missing documents,Not Started,Normal,2026-09-24,Advisor follow-up for Jose Martinez.
+TASK-00024,CL-00086,HH-0031,Send requested documents,In Progress,Normal,2026-09-12,Advisor follow-up for Angela Wood.
+TASK-00025,CL-00088,HH-0032,Follow up on beneficiary update,Not Started,Normal,2026-10-14,Advisor follow-up for Wayne Owens.
+TASK-00026,CL-00089,HH-0032,Confirm address change,In Progress,Normal,2026-10-10,Advisor follow-up for Christine Johnson.
+TASK-00027,CL-00091,HH-0033,Call client about missing documents,In Progress,Normal,2026-10-06,Advisor follow-up for Kathryn Thomas.
+TASK-00028,CL-00096,HH-0035,Schedule portfolio review,In Progress,High,2026-09-16,Advisor follow-up for Robert Griffith.
+TASK-00029,CL-00097,HH-0035,Follow up on beneficiary update,In Progress,Low,2026-09-21,Advisor follow-up for Matthew Griffith.
+TASK-00030,CL-00098,HH-0036,Follow up on beneficiary update,Completed,Low,2026-06-30,Advisor follow-up for Michael Castillo.
+TASK-00031,CL-00099,HH-0036,Send requested documents,Completed,High,2026-08-28,Advisor follow-up for John Castillo.
+TASK-00032,CL-00102,HH-0037,Schedule portfolio review,In Progress,High,2026-09-13,Advisor follow-up for Christopher Rivera.
+TASK-00033,CL-00103,HH-0037,Call client about missing documents,Completed,Normal,2026-07-12,Advisor follow-up for Jose Rivera.
+TASK-00034,CL-00104,HH-0037,Send requested documents,Completed,High,2026-06-29,Advisor follow-up for Susan Rivera.
+TASK-00035,CL-00107,HH-0038,Follow up on beneficiary update,Completed,Normal,2026-07-01,Advisor follow-up for Kayla Davis.
+TASK-00036,CL-00108,HH-0039,Review transfer request,Not Started,Normal,2026-10-12,Advisor follow-up for Steven Anderson.
+TASK-00037,CL-00111,HH-0040,Confirm address change,Not Started,Low,2026-10-18,Advisor follow-up for John Young.
+TASK-00038,CL-00112,HH-0041,Follow up on account access issue,Not Started,Low,2026-10-16,Advisor follow-up for Morgan Rivera.
+TASK-00039,CL-00113,HH-0041,Confirm address change,Not Started,Low,2026-10-22,Advisor follow-up for Randy Rivera.
+TASK-00040,CL-00117,HH-0042,Send requested documents,Not Started,Normal,2026-09-18,Advisor follow-up for Samantha Warren.
+TASK-00041,CL-00119,HH-0043,Review transfer request,Completed,High,2026-09-07,Advisor follow-up for Karen Valenzuela.
+TASK-00042,CL-00123,HH-0044,Follow up on beneficiary update,In Progress,Low,2026-10-02,Advisor follow-up for Rebecca Gomez.
+TASK-00043,CL-00127,HH-0045,Follow up on account access issue,In Progress,Normal,2026-10-21,Advisor follow-up for Jennifer Maldonado.
+TASK-00044,CL-00132,HH-0046,Follow up on beneficiary update,Not Started,High,2026-10-15,Advisor follow-up for Karen Stokes.
+TASK-00045,CL-00133,HH-0047,Review transfer request,In Progress,Normal,2026-09-23,Advisor follow-up for Lawrence Carr.
+TASK-00046,CL-00137,HH-0048,Follow up on account access issue,Not Started,Normal,2026-09-27,Advisor follow-up for Lisa Fitzgerald.
+TASK-00047,CL-00138,HH-0048,Review transfer request,Completed,Normal,2026-08-06,Advisor follow-up for Mario Fitzgerald.
+TASK-00048,CL-00139,HH-0048,Schedule portfolio review,In Progress,Normal,2026-09-10,Advisor follow-up for Kathleen Fitzgerald.
+TASK-00049,CL-00140,HH-0048,Send requested documents,Completed,Normal,2026-07-23,Advisor follow-up for Stephanie Fitzgerald.
+TASK-00050,CL-00142,HH-0049,Follow up on beneficiary update,Not Started,Normal,2026-09-12,Advisor follow-up for Randy Morgan.
+TASK-00051,CL-00144,HH-0050,Follow up on beneficiary update,In Progress,Normal,2026-10-15,Advisor follow-up for Peggy Smith.
